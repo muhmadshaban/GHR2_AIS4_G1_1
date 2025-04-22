@@ -11,7 +11,7 @@ This project classifies land types (e.g., forest, urban, water) using satellite 
 - **Tools Used**: Python, TensorFlow / Keras, Google Colab
 
 ## 📊 Results
-- **Accuracy**: ~XX% *(Replace with your final result from notebook)*
+- **Accuracy**: 90.98%
 - **Loss Curve & Accuracy Curve**: See notebook
 
 ## 💻 How to Run
@@ -24,9 +24,9 @@ This project classifies land types (e.g., forest, urban, water) using satellite 
 
 
 ## 🧑‍🎓 Created By
+
+- Muhamad Shaban Muhamad
 - Mona Ali Mohamed
 - Amr Darweesh Elsayed
 - Ola Maher Abdulraziq
-- Muhamad Shaban Muhamad
   
-- DEBI Graduation Project - 2025
